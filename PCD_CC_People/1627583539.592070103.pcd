@@ -1,0 +1,18 @@
+# This PCD file was generated using the MATLAB® pcwrite function
+# from Computer Vision Toolbox®.
+# .PCD v.7 - Point Cloud Data file format
+VERSION .7
+FIELDS x y z intensity
+SIZE 4 4 4 4
+TYPE F F F F
+COUNT 1 1 1 1
+WIDTH 5
+HEIGHT 1
+VIEWPOINT 0 0 0 1 0 0 0
+POINTS 5
+DATA ascii
+-15.702435 -2.212816 0.000000 2.000000
+-4.713392 -1.004624 0.000000 1.000000
+-0.114159 -6.796006 0.000000 6.000000
+-5.899219 16.591784 0.000000 2.000000
+-6.030243 16.591431 0.000000 2.000000
