@@ -24,4 +24,4 @@
 
 ## Dataset highlights visualized (Youtube Video)
 
-[![Video of dataset](https://img.youtube.com/vi/cTYTPsMvkPQ/0.jpg)](https://www.youtube.com/watch?v=cTYTPsMvkPQ)
+[![Video of dataset](https://img.youtube.com/vi/g9W6L-AHni8/0.jpg)](https://www.youtube.com/watch?v=g9W6L-AHni8)
