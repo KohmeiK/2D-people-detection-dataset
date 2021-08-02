@@ -8,7 +8,7 @@
  | Vertex Color | Label |
 | -------------- | ------------------------------------------------------------------ |
 | ![](https://via.placeholder.com/15/00ff00/000000?text=+) Green  | People |
-| ![](https://via.placeholder.com/15/ff00ff/000000?text=+) Magenta | Humans |
+| ![](https://via.placeholder.com/15/ff00ff/000000?text=+) Magenta | Enviroment |
 | ![](https://via.placeholder.com/15/ff0000/000000?text=+) Red | Lidar Location |
 
 ## Specs
